@@ -6,8 +6,8 @@
   "mj_url": "https://midjourneyapi.zxx.im/main",
   "search_url" : "https://v2.alapi.cn/api/music/search",
   "music_search_token": "YOUR API TOKEN",
-  "mysql_host": "localhost",
-  "mysql_username": "root",
-  "mysql_password": "root",
-  "mysql_databases": "wechat_server"
+  "mysql_host": "59.110.13.127:20521",
+  "mysql_username": "wechat_tuisong",
+  "mysql_password": "bEdFhm5SsGiicRMR",
+  "mysql_databases": "	wechat_tuisong"
 }
